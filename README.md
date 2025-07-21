@@ -18,7 +18,6 @@ El sistema tiene como propósito registrar de manera automática las transaccion
 
 ### 📌 Gestión de Tareas
 - **Crear Tarea**: Registra tareas asociadas a un proyecto.
-- 
 ### Validaciones
 - Los **proyectos son únicos**.
 - Las **tareas deben estar asociadas a un proyecto**.
