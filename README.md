@@ -70,3 +70,7 @@ Un reporte de todos los datos insertados en bitacora, se puede filtrar por usuar
 <p align="center">
   <img src="imgs/bitac.jpg" alt="Inicio" width="500">
 </p>
+
+### ⚠️ Nota importante
+
+> A pesar de que se puede cargar con un servicio de apache en xampp o wampp (ademas de cargar la base de datos), el servicio no funcionara correctamente, ya que cuenta con una uri alojada en un Hosting al que ya no se tiene acceso
