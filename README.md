@@ -15,14 +15,10 @@ El sistema tiene como propósito registrar de manera automática las transaccion
 ### 📁 Gestión de Proyectos
 - **Crear Proyecto**: Registra nombre, descripción, fechas y responsable.
 - **Modificar Proyecto**: Actualiza los datos del proyecto existente.
-- **Eliminar Proyecto**: Elimina un proyecto y todas sus tareas asociadas.
-- **Asignar Recursos**: Asigna personal con roles y fechas a un proyecto.
 
 ### 📌 Gestión de Tareas
 - **Crear Tarea**: Registra tareas asociadas a un proyecto.
-- **Modificar Tarea**: Permite actualizar tareas existentes.
-- **Eliminar Tarea**: Elimina una tarea específica.
-
+- 
 ### Validaciones
 - Los **proyectos son únicos**.
 - Las **tareas deben estar asociadas a un proyecto**.
